@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "date": "2026-01-02",
+    "description": "Monthly salary",
+    "category": "Salary",
+    "type": "income",
+    "amount": 6200
+  },
+  {
+    "id": 2,
+    "date": "2026-01-03",
+    "description": "Grocery shopping",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 287.45
+  },
+  {
+    "id": 3,
+    "date": "2026-01-04",
+    "description": "Coffee shop",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 18.9
+  },
+  {
+    "id": 4,
+    "date": "2026-01-05",
+    "description": "Gas station",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 220
+  },
+  {
+    "id": 5,
+    "date": "2026-01-06",
+    "description": "Freelance project",
+    "category": "Freelance",
+    "type": "income",
+    "amount": 850
+  },
+  {
+    "id": 6,
+    "date": "2026-01-07",
+    "description": "Electricity bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 164.72
+  },
+  {
+    "id": 7,
+    "date": "2026-01-08",
+    "description": "Restaurant dinner",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 126.5
+  },
+  {
+    "id": 8,
+    "date": "2026-01-09",
+    "description": "Online shopping",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 199.9
+  },
+  {
+    "id": 9,
+    "date": "2026-01-10",
+    "description": "Gym membership",
+    "category": "Health & Fitness",
+    "type": "expense",
+    "amount": 159
+  },
+  {
+    "id": 10,
+    "date": "2026-01-11",
+    "description": "Cashback reward",
+    "category": "Other Income",
+    "type": "income",
+    "amount": 42.35
+  },
+  {
+    "id": 11,
+    "date": "2026-01-12",
+    "description": "Internet bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 119.9
+  },
+  {
+    "id": 12,
+    "date": "2026-01-13",
+    "description": "Pharmacy purchase",
+    "category": "Health & Fitness",
+    "type": "expense",
+    "amount": 76.4
+  },
+  {
+    "id": 13,
+    "date": "2026-01-14",
+    "description": "Monthly salary",
+    "category": "Salary",
+    "type": "income",
+    "amount": 6200
+  },
+  {
+    "id": 14,
+    "date": "2026-01-15",
+    "description": "Supermarket purchase",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 342.18
+  },
+  {
+    "id": 15,
+    "date": "2026-01-16",
+    "description": "Movie tickets",
+    "category": "Entertainment",
+    "type": "expense",
+    "amount": 72
+  },
+  {
+    "id": 16,
+    "date": "2026-01-17",
+    "description": "Water bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 89.35
+  },
+  {
+    "id": 17,
+    "date": "2026-01-18",
+    "description": "Clothing purchase",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 249.9
+  },
+  {
+    "id": 18,
+    "date": "2026-01-19",
+    "description": "Ride sharing",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 34.8
+  },
+  {
+    "id": 19,
+    "date": "2026-01-20",
+    "description": "Freelance project",
+    "category": "Freelance",
+    "type": "income",
+    "amount": 1200
+  },
+  {
+    "id": 20,
+    "date": "2026-01-21",
+    "description": "Pet supplies",
+    "category": "Pets",
+    "type": "expense",
+    "amount": 138.75
+  },
+  {
+    "id": 21,
+    "date": "2026-01-22",
+    "description": "Coffee beans",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 58.9
+  },
+  {
+    "id": 22,
+    "date": "2026-01-23",
+    "description": "Mobile phone bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 74.99
+  },
+  {
+    "id": 23,
+    "date": "2026-01-24",
+    "description": "Birthday gift",
+    "category": "Gifts",
+    "type": "expense",
+    "amount": 180
+  },
+  {
+    "id": 24,
+    "date": "2026-01-25",
+    "description": "Grocery shopping",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 275.62
+  },
+  {
+    "id": 25,
+    "date": "2026-01-26",
+    "description": "Interest earned",
+    "category": "Investments",
+    "type": "income",
+    "amount": 96.42
+  },
+  {
+    "id": 26,
+    "date": "2026-01-27",
+    "description": "Home supplies",
+    "category": "Home",
+    "type": "expense",
+    "amount": 215.3
+  },
+  {
+    "id": 27,
+    "date": "2026-01-28",
+    "description": "Restaurant lunch",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 84.9
+  },
+  {
+    "id": 28,
+    "date": "2026-01-29",
+    "description": "Parking fee",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 25
+  },
+  {
+    "id": 29,
+    "date": "2026-01-30",
+    "description": "Streaming subscription",
+    "category": "Entertainment",
+    "type": "expense",
+    "amount": 39.9
+  },
+  {
+    "id": 30,
+    "date": "2026-01-31",
+    "description": "Monthly salary",
+    "category": "Salary",
+    "type": "income",
+    "amount": 6200
+  },
+  {
+    "id": 31,
+    "date": "2026-02-01",
+    "description": "Grocery shopping",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 318.47
+  },
+  {
+    "id": 32,
+    "date": "2026-02-02",
+    "description": "Hair salon",
+    "category": "Personal Care",
+    "type": "expense",
+    "amount": 145
+  },
+  {
+    "id": 33,
+    "date": "2026-02-03",
+    "description": "Gas station",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 205.6
+  },
+  {
+    "id": 34,
+    "date": "2026-02-04",
+    "description": "Freelance project",
+    "category": "Freelance",
+    "type": "income",
+    "amount": 950
+  },
+  {
+    "id": 35,
+    "date": "2026-02-05",
+    "description": "Electricity bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 178.43
+  },
+  {
+    "id": 36,
+    "date": "2026-02-06",
+    "description": "Restaurant dinner",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 156.8
+  },
+  {
+    "id": 37,
+    "date": "2026-02-07",
+    "description": "New shoes",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 329.9
+  },
+  {
+    "id": 38,
+    "date": "2026-02-08",
+    "description": "Gym membership",
+    "category": "Health & Fitness",
+    "type": "expense",
+    "amount": 159
+  },
+  {
+    "id": 39,
+    "date": "2026-02-09",
+    "description": "Tax refund",
+    "category": "Other Income",
+    "type": "income",
+    "amount": 740
+  },
+  {
+    "id": 40,
+    "date": "2026-02-10",
+    "description": "Internet bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 119.9
+  },
+  {
+    "id": 41,
+    "date": "2026-02-11",
+    "description": "Doctor appointment",
+    "category": "Health & Fitness",
+    "type": "expense",
+    "amount": 280
+  },
+  {
+    "id": 42,
+    "date": "2026-02-12",
+    "description": "Monthly salary",
+    "category": "Salary",
+    "type": "income",
+    "amount": 6200
+  },
+  {
+    "id": 43,
+    "date": "2026-02-13",
+    "description": "Supermarket purchase",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 391.24
+  },
+  {
+    "id": 44,
+    "date": "2026-02-14",
+    "description": "Concert tickets",
+    "category": "Entertainment",
+    "type": "expense",
+    "amount": 240
+  },
+  {
+    "id": 45,
+    "date": "2026-02-15",
+    "description": "Water bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 91.7
+  },
+  {
+    "id": 46,
+    "date": "2026-02-16",
+    "description": "Home decor",
+    "category": "Home",
+    "type": "expense",
+    "amount": 315.9
+  },
+  {
+    "id": 47,
+    "date": "2026-02-17",
+    "description": "Ride sharing",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 42.5
+  },
+  {
+    "id": 48,
+    "date": "2026-02-18",
+    "description": "Freelance project",
+    "category": "Freelance",
+    "type": "income",
+    "amount": 1100
+  },
+  {
+    "id": 49,
+    "date": "2026-02-19",
+    "description": "Pet food",
+    "category": "Pets",
+    "type": "expense",
+    "amount": 189.9
+  },
+  {
+    "id": 50,
+    "date": "2026-02-20",
+    "description": "Coffee shop",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 22.5
+  },
+  {
+    "id": 51,
+    "date": "2026-02-21",
+    "description": "Mobile phone bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 74.99
+  },
+  {
+    "id": 52,
+    "date": "2026-02-22",
+    "description": "Gift purchase",
+    "category": "Gifts",
+    "type": "expense",
+    "amount": 125
+  },
+  {
+    "id": 53,
+    "date": "2026-02-23",
+    "description": "Grocery shopping",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 264.78
+  },
+  {
+    "id": 54,
+    "date": "2026-02-24",
+    "description": "Investment return",
+    "category": "Investments",
+    "type": "income",
+    "amount": 132.65
+  },
+  {
+    "id": 55,
+    "date": "2026-02-25",
+    "description": "Household supplies",
+    "category": "Home",
+    "type": "expense",
+    "amount": 176.45
+  },
+  {
+    "id": 56,
+    "date": "2026-02-26",
+    "description": "Restaurant lunch",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 97.2
+  },
+  {
+    "id": 57,
+    "date": "2026-02-27",
+    "description": "Parking fee",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 30
+  },
+  {
+    "id": 58,
+    "date": "2026-02-28",
+    "description": "Monthly salary",
+    "category": "Salary",
+    "type": "income",
+    "amount": 6200
+  },
+  {
+    "id": 59,
+    "date": "2026-03-01",
+    "description": "Streaming subscription",
+    "category": "Entertainment",
+    "type": "expense",
+    "amount": 49.9
+  },
+  {
+    "id": 60,
+    "date": "2026-03-02",
+    "description": "Grocery shopping",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 356.12
+  },
+  {
+    "id": 61,
+    "date": "2026-03-03",
+    "description": "Gas station",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 218.75
+  },
+  {
+    "id": 62,
+    "date": "2026-03-04",
+    "description": "Freelance project",
+    "category": "Freelance",
+    "type": "income",
+    "amount": 1350
+  },
+  {
+    "id": 63,
+    "date": "2026-03-05",
+    "description": "Electricity bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 171.36
+  },
+  {
+    "id": 64,
+    "date": "2026-03-06",
+    "description": "Restaurant dinner",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 142.7
+  },
+  {
+    "id": 65,
+    "date": "2026-03-07",
+    "description": "Clothing purchase",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 219.9
+  },
+  {
+    "id": 66,
+    "date": "2026-03-08",
+    "description": "Gym membership",
+    "category": "Health & Fitness",
+    "type": "expense",
+    "amount": 159
+  },
+  {
+    "id": 67,
+    "date": "2026-03-09",
+    "description": "Cashback reward",
+    "category": "Other Income",
+    "type": "income",
+    "amount": 37.8
+  },
+  {
+    "id": 68,
+    "date": "2026-03-10",
+    "description": "Internet bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 119.9
+  },
+  {
+    "id": 69,
+    "date": "2026-03-11",
+    "description": "Pharmacy purchase",
+    "category": "Health & Fitness",
+    "type": "expense",
+    "amount": 94.25
+  },
+  {
+    "id": 70,
+    "date": "2026-03-12",
+    "description": "Monthly salary",
+    "category": "Salary",
+    "type": "income",
+    "amount": 6200
+  },
+  {
+    "id": 71,
+    "date": "2026-03-13",
+    "description": "Supermarket purchase",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 328.64
+  },
+  {
+    "id": 72,
+    "date": "2026-03-14",
+    "description": "Movie tickets",
+    "category": "Entertainment",
+    "type": "expense",
+    "amount": 86
+  },
+  {
+    "id": 73,
+    "date": "2026-03-15",
+    "description": "Water bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 88.4
+  },
+  {
+    "id": 74,
+    "date": "2026-03-16",
+    "description": "Furniture purchase",
+    "category": "Home",
+    "type": "expense",
+    "amount": 680
+  },
+  {
+    "id": 75,
+    "date": "2026-03-17",
+    "description": "Ride sharing",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 29.7
+  },
+  {
+    "id": 76,
+    "date": "2026-03-18",
+    "description": "Freelance project",
+    "category": "Freelance",
+    "type": "income",
+    "amount": 900
+  },
+  {
+    "id": 77,
+    "date": "2026-03-19",
+    "description": "Pet supplies",
+    "category": "Pets",
+    "type": "expense",
+    "amount": 117.9
+  },
+  {
+    "id": 78,
+    "date": "2026-03-20",
+    "description": "Coffee shop",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 16.8
+  },
+  {
+    "id": 79,
+    "date": "2026-03-21",
+    "description": "Mobile phone bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 74.99
+  },
+  {
+    "id": 80,
+    "date": "2026-03-22",
+    "description": "Birthday gift",
+    "category": "Gifts",
+    "type": "expense",
+    "amount": 210
+  },
+  {
+    "id": 81,
+    "date": "2026-03-23",
+    "description": "Grocery shopping",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 297.53
+  },
+  {
+    "id": 82,
+    "date": "2026-03-24",
+    "description": "Investment return",
+    "category": "Investments",
+    "type": "income",
+    "amount": 108.37
+  },
+  {
+    "id": 83,
+    "date": "2026-03-25",
+    "description": "Home supplies",
+    "category": "Home",
+    "type": "expense",
+    "amount": 143.8
+  },
+  {
+    "id": 84,
+    "date": "2026-03-26",
+    "description": "Restaurant lunch",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 76.5
+  },
+  {
+    "id": 85,
+    "date": "2026-03-27",
+    "description": "Parking fee",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 20
+  },
+  {
+    "id": 86,
+    "date": "2026-03-28",
+    "description": "Streaming subscription",
+    "category": "Entertainment",
+    "type": "expense",
+    "amount": 39.9
+  },
+  {
+    "id": 87,
+    "date": "2026-03-29",
+    "description": "Monthly salary",
+    "category": "Salary",
+    "type": "income",
+    "amount": 6200
+  },
+  {
+    "id": 88,
+    "date": "2026-03-30",
+    "description": "Grocery shopping",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 374.21
+  },
+  {
+    "id": 89,
+    "date": "2026-03-31",
+    "description": "Gas station",
+    "category": "Transportation",
+    "type": "expense",
+    "amount": 231.4
+  },
+  {
+    "id": 90,
+    "date": "2026-04-01",
+    "description": "Freelance project",
+    "category": "Freelance",
+    "type": "income",
+    "amount": 1150
+  },
+  {
+    "id": 91,
+    "date": "2026-04-02",
+    "description": "Electricity bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 182.6
+  },
+  {
+    "id": 92,
+    "date": "2026-04-03",
+    "description": "Restaurant dinner",
+    "category": "Food & Dining",
+    "type": "expense",
+    "amount": 134.9
+  },
+  {
+    "id": 93,
+    "date": "2026-04-04",
+    "description": "Online shopping",
+    "category": "Shopping",
+    "type": "expense",
+    "amount": 289.9
+  },
+  {
+    "id": 94,
+    "date": "2026-04-05",
+    "description": "Gym membership",
+    "category": "Health & Fitness",
+    "type": "expense",
+    "amount": 159
+  },
+  {
+    "id": 95,
+    "date": "2026-04-06",
+    "description": "Bonus payment",
+    "category": "Salary",
+    "type": "income",
+    "amount": 1800
+  },
+  {
+    "id": 96,
+    "date": "2026-04-07",
+    "description": "Internet bill",
+    "category": "Bills & Utilities",
+    "type": "expense",
+    "amount": 119.9
+  },
+  {
+    "id": 97,
+    "date": "2026-04-08",
+    "description": "Dental appointment",
+    "category": "Health & Fitness",
+    "type": "expense",
+    "amount": 320
+  },
+  {
+    "id": 98,
+    "date": "2026-04-09",
+    "description": "Supermarket purchase",
+    "category": "Groceries",
+    "type": "expense",
+    "amount": 305.76
+  },
+  {
+    "id": 99,
+    "date": "2026-04-10",
+    "description": "Weekend trip",
+    "category": "Travel",
+    "type": "expense",
+    "amount": 540
+  },
+  {
+    "id": 100,
+    "date": "2026-04-11",
+    "description": "Monthly salary",
+    "category": "Salary",
+    "type": "income",
+    "amount": 6200
+  }
+]
